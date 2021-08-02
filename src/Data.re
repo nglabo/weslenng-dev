@@ -43,7 +43,7 @@ type raw = {
 let raw = {
   profile: {
     avatar: "https://avatars.githubusercontent.com/u/30958533",
-    name: {js|wes\u039Benng.fs|js},
+    name: {js|wes\u039Benng|js},
     role: "Software Developer",
     email: "weslenng@outlook.com",
     birth: "2000-12-31",
@@ -52,7 +52,7 @@ let raw = {
     social: {
       discord: "https://discordapp.com/users/239549277611753473",
       github: "https://github.com/weslenng",
-      twitter: "https://twitter.com/theweslenng",
+      twitter: "https://twitter.com/ngweslen",
       linkedin: "https://www.linkedin.com/in/weslenng",
     },
   },
